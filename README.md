@@ -42,6 +42,7 @@ You should commit into a local git repository and include the git repository (.g
 
 ## Task 2
 First come first serve: A car can be selected by exactly one ONLINE Driver. If a second driver tries to select a already used car you should throw a CarAlreadyInUseException.
+![image](https://github.com/Ishika9gera/Car-Management-application/assets/56030202/98d6a4d1-ca16-46af-b8ad-996d501b83af)
 
 ---
 
@@ -52,6 +53,7 @@ Imagine a driver management frontend that is used internally by company employee
 * implement a new endpoint for searching or extend an existing one
 * driver/car attributes as input parameters
 * return list of drivers
+![image](https://github.com/Ishika9gera/Car-Management-application/assets/56030202/1e479d03-ec01-4309-8d54-3a24ded7c918)
 
 ---
 

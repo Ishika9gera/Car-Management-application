@@ -37,6 +37,7 @@ You should commit into a local git repository and include the git repository (.g
 * Add example data to resources/data.sql
 
 ---
+![image](https://github.com/Ishika9gera/Car-Management-application/assets/56030202/d85e4128-047b-42fa-bb52-5efbdacb079f)
 
 
 ## Task 2
